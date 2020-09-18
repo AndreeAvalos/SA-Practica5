@@ -27,6 +27,9 @@ npm i express
 npm i fs
 npm i body-parser
 npm i axios
+npm i chai
+npm i chai-http
+npm i mocha
 ```
 
 ## Ejecucion
@@ -36,6 +39,11 @@ node Restaurante/index.js
 node Repartidor/index.js
 node log/index.js
 node ESB/orquestador.js
+```
+
+## Pruebas
+```
+ng test
 ```
 
 ## Colaborador
