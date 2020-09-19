@@ -52,5 +52,5 @@ ng test
 * Carlos Andree Avalos Soto 201408580
 
 ## Videos Demostrativos
-[Practica 4-Explicacion de Orquestador](https://drive.google.com/file/d/1F3gX7wZ6hglRYXTitLQyNJZJpu-getno/view)
-[Practica 6-Coverage](https://drive.google.com/file/d/1_z8JqL3jlfsR0DwsPn6TQGeNfMrlcBLM/view)
+* [Practica 4-Explicacion de Orquestador](https://drive.google.com/file/d/1F3gX7wZ6hglRYXTitLQyNJZJpu-getno/view)
+* [Practica 6-Coverage](https://drive.google.com/file/d/1_z8JqL3jlfsR0DwsPn6TQGeNfMrlcBLM/view)
