@@ -1,5 +1,5 @@
-# SA-Practica5
-Practica #5 Software Avanzado
+# SA-Practica6
+Practica #6 de Software Avanzado
 
 ## Descripcion
 * Realizar una aplicación SOA para simular un servicio de crowdsourcing de comida a domicilio.
@@ -30,6 +30,7 @@ npm i axios
 npm i chai
 npm i chai-http
 npm i mocha
+npm i nyc --save-dev
 ```
 
 ## Ejecucion
@@ -50,5 +51,6 @@ ng test
 
 * Carlos Andree Avalos Soto 201408580
 
-## Video Demostrativo
+## Videos Demostrativos
 [Practica 4-Explicacion de Orquestador](https://drive.google.com/file/d/1F3gX7wZ6hglRYXTitLQyNJZJpu-getno/view)
+[Practica 6-Coverage](https://drive.google.com/file/d/1_z8JqL3jlfsR0DwsPn6TQGeNfMrlcBLM/view)
